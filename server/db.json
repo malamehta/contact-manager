@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "rahul  ",
+      "email": "rahulshani@gmail.com",
+      "mobile": "8358977907",
+      "companyName": "newrise",
+      "imgUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "group": "collegue",
+      "id": "46"
+    },
+    {
+      "name": "Mala",
+      "email": "%$%^#$#^^(*#&^%$&*($%^&*()*&^%$#@#$%^&^%$#",
+      "mobile": "6266160468",
+      "companyName": "!@#$%^&*(",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-QfSzqC_S19Nn4R0wQ0rgaBvaep1PH9g8Ug&usqp=CAU",
+      "group": "collegue",
+      "id": "18LaOV9"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "friends"
+    },
+    {
+      "id": "2",
+      "name": "family"
+    },
+    {
+      "id": "3",
+      "name": "collegue"
+    }
+  ]
+}

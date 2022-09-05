@@ -1,0 +1,27 @@
+{
+  "contacts": [
+    {
+      "name": "shaym",
+      "email": "rahulshani@gmail.com",
+      "mobile": "8358977907",
+      "companyName": "newrise",
+      "imgUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "group": "Family",
+      "id": "4654"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "friends"
+    },
+    {
+      "id": "2",
+      "name": "family"
+    },
+    {
+      "id": "3",
+      "name": "collegue"
+    }
+  ]
+}
